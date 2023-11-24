@@ -8,7 +8,7 @@ string compress(const string& str) {
     int count = 1;
     for (int i = 1; i <= str.length(); ++i) {
         if (i == str.length() || str[i] != str[i-1]) {
-            compressed += str[i-1] + std::to_string(count);
+            compressed += str[i-1] + to_string(count);
             count = 1;
         } else {
             ++count;
