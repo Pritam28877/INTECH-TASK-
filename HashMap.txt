@@ -1,0 +1,24 @@
+What is a HashMap?
+Hash maps are a common data structure used to store key-value pairs for efficient retrieval
+The name hashmap or hash comes from the technique used within called hashing.
+Hashing is a technique of converting a large String to small String that represents the same String.
+The first step to implement a HashMap is to have a hash function.
+This function will map every key to its value.
+
+
+
+
+#include <iostream>
+#include <array>
+using namespace std; 
+
+int main() {
+    array<int, 100> intArray;
+    for(int i=0; i<100; i++) {
+        intArray[i] = i;
+    }
+    for(const auto &i : intArray) {
+        cout << i << ' ';
+    }
+    return 0;
+}
