@@ -1,0 +1,18 @@
+
+
+Cross product is a binary operation on two vectors in three-dimensional space.
+ It results in a vector that is perpendicular to both vectors. The Vector product of two vectors, a and b,
+ is denoted by a × b. Its resultant vector is perpendicular to a and b. Vector products are also called cross
+ products.
+ Cross product of two vectors will give the resultant a vector and calculated using the Right-hand Rule.
+
+The vector product or cross product of two vectors A and B is denoted by A × B,
+and its resultant vector is perpendicular to the vectors A and B.
+The cross product is mostly used to determine the vector,
+which is perpendicular to the plane surface spanned by two vectors,
+whereas the dot product is used to find the angle between two vectors or the length of the vector.
+The cross product of two vectors, say A × B, is equal to another vector at right angles to both, 
+and it happens in the three dimensions.
+
+https://byjus.com/maths/cross-product/#:~:text=The%20cross%20product%20is%20mostly,the%20length%20of%20the%20vector.
+https://math.stackexchange.com/questions/414776/what-is-the-use-of-the-dot-product-of-two-vectors
