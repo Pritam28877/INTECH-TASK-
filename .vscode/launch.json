@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/full web dev/ffffffffffffffffffffffffffffffffffffffffffffffff",
-      "program": "d:/full web dev/ffffffffffffffffffffffffffffffffffffffffffffffff/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
