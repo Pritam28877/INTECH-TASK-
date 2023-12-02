@@ -27,3 +27,6 @@ If you are reviewing this repository as part of the interview process:
 This solution was prepared by [Your Name] as part of the interview process with Intech Additive. Feel free to explore, modify, and provide feedback on the solution.
 
 If you have any questions or need further clarification, please don't hesitate to reach out. Thank you for the opportunity, and I look forward to discussing the solution further.
+
+
+the github link https://github.com/Pritam28877/INTECH-TASK-
